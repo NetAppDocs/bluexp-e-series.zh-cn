@@ -34,30 +34,6 @@ sidebar:
       url: "/task-get-help.html"
   - title: 法律声明
     url: "/legal-notices.html"
-homepage:
-  tiles:
-  - title: 入门
-    links:
-    - title: 发现E系列系统
-      url: "/task-discover-e-series.html"
-  - title: 管理E系列系统
-    links:
-    - title: 查看E系列系统
-      url: "/task-view-e-series.html"
-    - title: 删除工作环境
-      url: "/task-remove-e-series.html"
-  - title: 相关链接
-    links:
-    - title: 用于在BlueXP之外进行管理的E系列文档
-      url: https://docs.netapp.com/us-en/e-series-family/
-  - title: 博客社区
-    links:
-    - title: NetApp 社区
-      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-    - title: BlueXP博客
-      url: https://cloud.netapp.com/blog
-    - title: 云网络研讨会
-      url: https://cloud.netapp.com/events
 product-family:
   name: BlueXP
   repo: bluexp-family
